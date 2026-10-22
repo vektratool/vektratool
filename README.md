@@ -1,4 +1,4 @@
-# VektraTool
+![VektraTool: free online tools](vektratool-banner.png)
 
 Free online tools for everyday digital tasks. Everything runs in your browser, with no signup and no installs.
 
